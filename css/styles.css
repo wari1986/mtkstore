@@ -10147,7 +10147,7 @@ header.masthead h1 {
 }
 
 #calltoaction {
-  background-image: url('../assets/img/freefire1.jpg');
+  background-image: url('../assets/img/cyberpunk.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -10157,4 +10157,19 @@ header.masthead h1 {
 
 #calltoactiontext {
   margin-top: 170px;
+}
+
+.icon-plataforma {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+#calltoaction2 {
+  background-image: url('../assets/img/supermario.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 600px;
 }
