@@ -164,8 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #d6370c;
-  text-decoration: underline;
+  color: #540ce1;
 }
 
 a:not([href]):not([class]) {
@@ -10065,6 +10064,7 @@ hr.light {
   #mainNav.navbar-scrolled {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
     background-color: #fff;
+    opacity: 0.92;
   }
   #mainNav.navbar-scrolled .navbar-brand {
     color: #212529;
@@ -10180,4 +10180,12 @@ header.masthead h1 {
   background-attachment: fixed;
   background-size: cover;
   height: 600px;
+}
+
+#icondeposito {
+  cursor: pointer;
+}
+
+#h3deposito {
+  color: #540ce1;
 }
